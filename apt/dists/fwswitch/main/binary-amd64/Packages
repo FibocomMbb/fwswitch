@@ -8,7 +8,7 @@ Maintainer: liuqf@fibocom.com
 Provides: fibocom.com
 Priority: optonal
 Section: utils
-Filename: pool/universe/f/fwswitchtool/fwswitchtool_1.0.5_amd64.deb
+Filename: pool/main/f/fwswitchtool/fwswitchtool_1.0.5_amd64.deb
 Size: 15989596
 SHA256: 570248d916404b788eab8623b136d7c5b8bfdf6fcda6d54a5b599edbf262ee84
 SHA1: 476552dafbc4b208c8f63c2c767c8ab15577f6dc

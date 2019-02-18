@@ -1,0 +1,5 @@
+Component: main
+Origin: fibocom.com
+Label: fwswitchtool repository
+Architecture: amd64
+Description: FWSwitch Tool for ubuntu system

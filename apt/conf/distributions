@@ -1,9 +1,7 @@
-Origin: fibocom 
-Label: fwswitchtool
-Suite: unstable
+Origin: fibocom.com 
+Label: fwswitchtool repository
 Codename: fwswitch
-Version: 1.0.5
 Architectures: amd64
-Components: universe
+Components: main
 Description: FWSwitch Tool for ubuntu system
 SignWith: yes
