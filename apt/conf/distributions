@@ -1,6 +1,7 @@
 Origin: fibocom.com 
 Label: fwswitchtool repository
 Codename: fwswitch
+Suite: stable
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system

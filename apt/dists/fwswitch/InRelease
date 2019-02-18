@@ -3,34 +3,35 @@ Hash: SHA512
 
 Origin: fibocom.com
 Label: fwswitchtool repository
+Suite: stable
 Codename: fwswitch
-Date: Mon, 18 Feb 2019 06:17:48 UTC
+Date: Mon, 18 Feb 2019 07:33:16 UTC
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system
 MD5Sum:
  ff0a0468a653560d1207cf204ef52afb 468 main/binary-amd64/Packages
  81b4b3ef31a9e901a495b6a9f35e99c9 348 main/binary-amd64/Packages.gz
- 38be3bb1e8b63f40ff36ae604dd693af 132 main/binary-amd64/Release
+ 854dedc79de1daa29d32adf8b3a77899 148 main/binary-amd64/Release
 SHA1:
  60615d6ef35760bcaa860f9c34fd14eb9972abf0 468 main/binary-amd64/Packages
  40fb63d1cefa857eda1658f204d2b1099f8b7c97 348 main/binary-amd64/Packages.gz
- 636720c91a3d531f4becd19b4e8167a6e0f9240f 132 main/binary-amd64/Release
+ bb6ff543be39bf0cb79c256549e5cb9543d4650d 148 main/binary-amd64/Release
 SHA256:
  157e1984e71bc65b5e2ce997a46f5605f2390ee63c1d58c4bffed59ed3055aed 468 main/binary-amd64/Packages
  b32121e7bc3653c3c87cf9a5042eafc28fe67e03b5bf58620356173a3eb95983 348 main/binary-amd64/Packages.gz
- 7599dbe640cd5f24b53f02c4cfd4c2690317f7ac4114dd3ab2f8bcf87acc08ee 132 main/binary-amd64/Release
+ 3072e06c8854e65b0e753f05680c08b2b2a9a44fdeeb93346f79f2438b51d072 148 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEynQJUk85gd7jZJT2jRHS9GufB18FAlxqTgwACgkQjRHS9Guf
-B1+imAv/Yf3TYBcOzRj6G8Rj6Gh7cHh5ecrmKxUuQAkRE1jf+IvWgSJ2/Q76ZECu
-W6U77PhsATLyuTkMU9KWmbzB0w0aUifG+DKXZL0UOV64UtanP9gxv2LvQlY4VK5X
-JCFKis7fXUWZYP5swSV4i4+Ch7OmJcPzzNkawo7D7fJ5k7cWHaQAqwAVJ1fYMakU
-s628KQeak7p7rqetl2yy7ieNN4hsNnqaiPGnBPVADa+KUdxvbFzXDHaIF1nK110p
-4dxz5kofgy5id2YeILBFGsgT0ob1zd09Cfb+NVu/P08ZSiuVgl42/vPgxvFfWmMk
-BhG+NiJOiJXbXufe8K/0tSbh2V5FWNyRRmQubmDtdX5TXVNpWemCYmzjz4I3LDlS
-0r0chbQ5blIABxjAr3VwDR7CEOJQiiu+qv/GnUqfvMQf4KE480LjY2+4zlvad8DE
-YsmXXyx+WF6gYseTO8ndR5F1RcDdPPQdKag4pRfDBquhwPjODs3+boN6HtorYJT4
-njPGTv69
-=Hfdm
+iQGzBAEBCgAdFiEEynQJUk85gd7jZJT2jRHS9GufB18FAlxqX70ACgkQjRHS9Guf
+B19jJgv/VOFk/eArSgXIttylOlU18uCw6BgaA/xTQQMG43Ky05J9xMj3TetFEDTw
+Lco7nhLAspOYsXwDN67IbdoV53JUqVZ2hhoic3ohUBIw8ZKuVD2XjxV+x7Kl0NY+
+RmLyaM53Um7sTrqmldofqYuvkV0w8fjQpmY0XoL9z5fD3aZOWPBUfJ0uHIaF+L5Z
+AlYpEO7RvgEOD62QEQuUYKTz8OBy6P6Zjkm7oXPViFodBfTURacROC/oxS7MdpPV
+LmvwY7bmwgpv1UeoNALWBZB1k2+0R53oFHWTfY6KnLpr2I0VsQdM21m68ZHdoBsj
+tgnF3NMwESrCGVl9/PVc/2Pjifyn1PnyvSamepdnKEXkxKzt5q0/0baxyf7X286t
+7siGWHaMdQvEQq5G2fu8sAWVGNkLxQsovasgbTGX5WncB1Fb1nDg4K2loLS1wDB6
+xFyECo0IlVgQ01j0lP7iZmgygriCQsXXqU/hjCAWP8CmCWPc7u+IF5IBcjetXLVr
+dTSGYxS9
+=riQm
 -----END PGP SIGNATURE-----
