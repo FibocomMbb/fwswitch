@@ -1,0 +1,7 @@
+Archive: unstable
+Version: 1.0.5
+Component: universe
+Origin: fibocom
+Label: fwswitchtool
+Architecture: amd64
+Description: FWSwitch Tool for ubuntu system

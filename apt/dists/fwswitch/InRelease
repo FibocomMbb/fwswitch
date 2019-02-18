@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: fibocom
+Label: fwswitchtool
+Suite: unstable
+Codename: fwswitch
+Version: 1.0.5
+Date: Mon, 18 Feb 2019 02:10:26 UTC
+Architectures: amd64
+Components: universe
+Description: FWSwitch Tool for ubuntu system
+MD5Sum:
+ 9afd3276ffcafd484f9fe258a8baac5a 472 universe/binary-amd64/Packages
+ 688fd7a3462db699eee67ffb9b8bf42c 350 universe/binary-amd64/Packages.gz
+ 818b790a9a6def8f2f3850cfb643b4b1 154 universe/binary-amd64/Release
+SHA1:
+ 80fffc865fdc05ff789144c4b778b33707a06184 472 universe/binary-amd64/Packages
+ 575156402ff8b42824a6323e816852ce61adf4be 350 universe/binary-amd64/Packages.gz
+ 2acfc445c2d942c69d42dcd79770d603dd577c24 154 universe/binary-amd64/Release
+SHA256:
+ 4e36e8f6c59a9098ea0119a4818726c2ef6b4a799ffcc313850f70a8d177e90c 472 universe/binary-amd64/Packages
+ 6f817910084485e97b5e2851cf00c3587b3a889d0e4d4bb7edbc1cd3634be696 350 universe/binary-amd64/Packages.gz
+ ded4a76602dbb3fd3a7e910011f1624cd0d7ff5e482a405b17282280e8cd8c10 154 universe/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEynQJUk85gd7jZJT2jRHS9GufB18FAlxqFBIACgkQjRHS9Guf
+B1/m0wv/Skk6S/Hy+RX2GnZSUYQM4t88AZIrOXITTBY+2pJLjUFrz3UR1KcTnIpA
+zHJRW0mdfkeKfBbhUpL2DDpMntftD/8OE1UTPqYwWBmuMpftE9M3zRlB6eNA1/It
+W0ck29PZ60CEtkDv/eri4JIr5GTZA+df/wc5zXuVsF44GgAmHsjrd+g1wzdp7yGl
+/gmoSGFSlRSZ0YNDOb9GTKUJ5caACTaRl6rrBEgPnjKG5riwR8ImBbZUhF5RyrWz
+DsS73F0Si76y5qfTxCR+jFHnv1EM40j1WcAXlu8NCCDUOKQcTyYbYr6jKn7ITBVU
+ZXCffCecWUiYn7eewTvj7VBsZJfeN8TWpgpv5OZq245/HBjr0VuNvGOKKT59K1yh
+IpDWN98Zx5P3hhI3+Ureo/kqSSJ4LdHgJcwMMrYwrwK2q+lKHtXwtX04LtJWHJDT
+LYyuwJJu6vL6kugVznZSEv7OjCtRkeCHDUTdcKDzKgl+/sEkRHVMRp78PDL+VzxD
+SNhVoRzp
+=+Uog
+-----END PGP SIGNATURE-----
