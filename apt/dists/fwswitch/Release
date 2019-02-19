@@ -2,7 +2,7 @@ Origin: fibocom.com
 Label: fwswitchtool repository
 Suite: stable
 Codename: fwswitch
-Date: Mon, 18 Feb 2019 07:33:16 UTC
+Date: Tue, 19 Feb 2019 01:30:29 UTC
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system

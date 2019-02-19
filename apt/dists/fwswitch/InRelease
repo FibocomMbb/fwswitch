@@ -5,7 +5,7 @@ Origin: fibocom.com
 Label: fwswitchtool repository
 Suite: stable
 Codename: fwswitch
-Date: Mon, 18 Feb 2019 07:33:16 UTC
+Date: Tue, 19 Feb 2019 01:30:29 UTC
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system
@@ -23,15 +23,15 @@ SHA256:
  3072e06c8854e65b0e753f05680c08b2b2a9a44fdeeb93346f79f2438b51d072 148 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEynQJUk85gd7jZJT2jRHS9GufB18FAlxqX70ACgkQjRHS9Guf
-B19jJgv/VOFk/eArSgXIttylOlU18uCw6BgaA/xTQQMG43Ky05J9xMj3TetFEDTw
-Lco7nhLAspOYsXwDN67IbdoV53JUqVZ2hhoic3ohUBIw8ZKuVD2XjxV+x7Kl0NY+
-RmLyaM53Um7sTrqmldofqYuvkV0w8fjQpmY0XoL9z5fD3aZOWPBUfJ0uHIaF+L5Z
-AlYpEO7RvgEOD62QEQuUYKTz8OBy6P6Zjkm7oXPViFodBfTURacROC/oxS7MdpPV
-LmvwY7bmwgpv1UeoNALWBZB1k2+0R53oFHWTfY6KnLpr2I0VsQdM21m68ZHdoBsj
-tgnF3NMwESrCGVl9/PVc/2Pjifyn1PnyvSamepdnKEXkxKzt5q0/0baxyf7X286t
-7siGWHaMdQvEQq5G2fu8sAWVGNkLxQsovasgbTGX5WncB1Fb1nDg4K2loLS1wDB6
-xFyECo0IlVgQ01j0lP7iZmgygriCQsXXqU/hjCAWP8CmCWPc7u+IF5IBcjetXLVr
-dTSGYxS9
-=riQm
+iQGzBAEBCgAdFiEEynQJUk85gd7jZJT2jRHS9GufB18FAlxrXDUACgkQjRHS9Guf
+B196yAv/fA79VZW20XfrqeItjg+BFo0j6cNHS83GePVIGacTVxzlBSMJ59JKt9V9
+JTFf/zkscuwxp8jAesbrkTaIjLupBrb5DIpuzain32Nta3bxVvj1zxXcDC6uGAfb
+tl2jTW/FARtnFiQS4kSyrY2vkZjKCFwAJQLqLbFaC6ANKMRaMOqyt8CuC0dXL4sf
+BW54hKMY+UOYWeSjhMylfTuGX9DSYVN/WJa4IVpakAGUMFoLFmqStkafqvF3h0C+
+c2NS3UQ3vfjG489EO8sX5IX9A2u4F/dIGSYFHP01b+3vJZpQPkRjJbzmm3QVzLx8
+pcAAdYhAcxeDJdBaym2K1jCuGGMfIXwXkaoKKBN4NzPQm6k3em9dOVJbuxFCjiFY
+bTmjL3vL0bzzEOm5uWTzhjP8HbK/ugNpPz8BFfKnX06Vfc3gWWfrtUZ8VJ+sueET
+iEgukYsA7BLEb8pyfFwaKGhku91JgTlUrFfQOr+1b2TALNfGuLJaxHIs4tIATNik
+K2iE6+NQ
+=MOTB
 -----END PGP SIGNATURE-----
