@@ -21,7 +21,7 @@ rm $KEY
 
 cat $SOURCE_PATH | grep "${REPOSITORY_PATH}"
 rc=$?
-if [ $? -eq 0 ]; then
+if [ $rc -eq 0 ]; then
 	echo "The repository url exist, NOT add it again"
 else
 	echo "The repository url NOT exist, add it in "$SOURCE_PATH
