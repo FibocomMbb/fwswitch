@@ -2,19 +2,19 @@ Origin: fibocom.com
 Label: fwswitchtool repository
 Suite: stable
 Codename: fwswitch
-Date: Tue, 19 Feb 2019 02:12:17 UTC
+Date: Tue, 19 Mar 2019 04:30:22 UTC
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system
 MD5Sum:
- d51afdb018b7072640099a1e375c4d29 468 main/binary-amd64/Packages
- 14af2aad63b1b6aac731ddc97efd6609 347 main/binary-amd64/Packages.gz
+ cbe344ab1a8d8bb5a7d980b504e65933 468 main/binary-amd64/Packages
+ edc9dbbe7bb5b91a1e13d26151371fe0 349 main/binary-amd64/Packages.gz
  854dedc79de1daa29d32adf8b3a77899 148 main/binary-amd64/Release
 SHA1:
- 3d9fd0c478cbba01a5a1886e1897897d8b422fa0 468 main/binary-amd64/Packages
- 3619f82ead61346ec38c39d94eced6e477c9b8b6 347 main/binary-amd64/Packages.gz
+ 070fc95f8f28c51eababab3b3708a730e98714eb 468 main/binary-amd64/Packages
+ 79c0b947763f37551e277cf72c2d17466e1d8dda 349 main/binary-amd64/Packages.gz
  bb6ff543be39bf0cb79c256549e5cb9543d4650d 148 main/binary-amd64/Release
 SHA256:
- aa2e97626fbffd732193a6118b5a90d9e9dc95200c7c379b521a30eb1178ea0c 468 main/binary-amd64/Packages
- e17ec2ba26ef7fee06fa4cb828b02299b5b83bc95c8e16ea1513d1e149702827 347 main/binary-amd64/Packages.gz
+ 790d22de8fa5454097a1948614a2bb70248245ed6357bc7b2bddefc710f9adff 468 main/binary-amd64/Packages
+ aa99b8713266f0f73ab977bd9f051fa607cc857d606e41d4d1a4433f5079e381 349 main/binary-amd64/Packages.gz
  3072e06c8854e65b0e753f05680c08b2b2a9a44fdeeb93346f79f2438b51d072 148 main/binary-amd64/Release
