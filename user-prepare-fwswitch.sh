@@ -29,4 +29,6 @@ else
 fi
 
 apt-get update
+apt-get remove fibocom
+rm -rf /opt/fibocom/*
 echo "Now you can run \"sudo apt-get install fwswitchtool\" get or update the fwswitch"
