@@ -1,17 +1,17 @@
 Package: fwswitchtool
-Version: 1.0.7
+Version: 1.0.9
 Depends:
 Suggests:
 Architecture: amd64
 Installed-Size: 4096
 Maintainer: liuqf@fibocom.com
 Provides: fibocom.com
-Priority: optonal
+Priority: optional
 Section: utils
-Filename: pool/main/f/fwswitchtool/fwswitchtool_1.0.7_amd64.deb
-Size: 16091680
-SHA256: 1ad17c02ed203c8e1ee1c82b0cb1dfa33a2f11c326f3d01ca23778ec80c24127
-SHA1: 671e1ff299ca93147a084bc528bfb42bb35870e1
-MD5sum: 79f8391b1e44bc7d4215f4fce2a51693
+Filename: pool/main/f/fwswitchtool/fwswitchtool_1.0.9_amd64.deb
+Size: 30320164
+SHA256: bb5dc6ed51239eb073083bcf92b6c8c14d85a6320651edc4932bfd9eaff25213
+SHA1: 28ac332cc8b20a4964d90273f0d1d6f68d1704e5
+MD5sum: b1b660c1ce3cfdaa5d34c05324765d2f
 Description: FWSwitch Tool for ubuntu system
 

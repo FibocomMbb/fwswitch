@@ -5,33 +5,33 @@ Origin: fibocom.com
 Label: fwswitchtool repository
 Suite: stable
 Codename: fwswitch
-Date: Tue, 19 Mar 2019 04:30:22 UTC
+Date: Tue, 10 Sep 2019 08:58:09 UTC
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system
 MD5Sum:
- cbe344ab1a8d8bb5a7d980b504e65933 468 main/binary-amd64/Packages
- edc9dbbe7bb5b91a1e13d26151371fe0 349 main/binary-amd64/Packages.gz
+ 6f51b52457c370f43f7866529bb025a2 469 main/binary-amd64/Packages
+ a32474468ce28b9e1e3929450cec46e1 347 main/binary-amd64/Packages.gz
  854dedc79de1daa29d32adf8b3a77899 148 main/binary-amd64/Release
 SHA1:
- 070fc95f8f28c51eababab3b3708a730e98714eb 468 main/binary-amd64/Packages
- 79c0b947763f37551e277cf72c2d17466e1d8dda 349 main/binary-amd64/Packages.gz
+ 3d4a70682fae3e6b99b6a8ece42e751f4f1f80fc 469 main/binary-amd64/Packages
+ d0e8a9c581b7cd1b305a71deff11f1449025c6a4 347 main/binary-amd64/Packages.gz
  bb6ff543be39bf0cb79c256549e5cb9543d4650d 148 main/binary-amd64/Release
 SHA256:
- 790d22de8fa5454097a1948614a2bb70248245ed6357bc7b2bddefc710f9adff 468 main/binary-amd64/Packages
- aa99b8713266f0f73ab977bd9f051fa607cc857d606e41d4d1a4433f5079e381 349 main/binary-amd64/Packages.gz
+ 456d551d0dbe911d04fb9b50ff5793abae34291177cd489302103381396193ce 469 main/binary-amd64/Packages
+ b107969f52b1d5a509767393a0a6ebc613ee208deaed5c27363d330ba6b1e709 347 main/binary-amd64/Packages.gz
  3072e06c8854e65b0e753f05680c08b2b2a9a44fdeeb93346f79f2438b51d072 148 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEynQJUk85gd7jZJT2jRHS9GufB18FAlyQcF4ACgkQjRHS9Guf
-B1/w+gwAhxyR9hoOAQ2ujyzm0V4X/SPH2HvBEcvcGS8ge3I8aP1exWAj5UxTVHi4
-4tvSH+OS7akmnKDqR8RnWmSoNnKAyC1guzcVEfUQJNWLlW6Oe2zASoRb/CDf7+4O
-q1dTGsSxD8kBexGHfkObcLQT57dKB3SaYpxHCaaQoLbWGL+GIh3AmL7esR2INFYO
-arXDibZPtLE8GOzO/lcaJaHdhDOfNXrifwegg5JSGhV4/XntmdEs8QT8H1InGO9E
-k3iI+GrGMTzboN22xFisuO2wd6KjknO+JqcCCMEBDmrjvupu0a//b0S6VuFj1ENi
-Nvjj9SsTAaMtdJBgu47ordhL3myI1NzHdTJmWHceMuvxAG7TgFKv3VbwJ+N6rG96
-ZPxCQMG4wr/U306FxUmfEcZGLrfONQncU38BLrkJkAtsNgFG3xUm3bFEjuEkex4w
-m04LW0zcritn39jFI6powasGxMLxvGBcmW4RQ9YlZZYtIdWtK0I8oOIof2RHZiCp
-KYWozi7x
-=oT2n
+iQGzBAEBCgAdFiEEhhHzKrPoKEaMihWwnlbC43rI7o0FAl13ZaEACgkQnlbC43rI
+7o2tVAv+IokvnKaJiqqAerpjAPtv0h2ypbtgcCHFdINovG0QwFj6SLjAuB5qIe4n
+jY93QHGu6DBY+xPcm2FbDFev9IBWXFjM4ExWl3WSujlZ4xD/nbYoOGNN16zFJUTs
+u5IqXDSuY6eI9goXqrVFC09piQbBxkys3PbplVedwon+zO4wfVde53HbOHORHNzi
+OzseZ+h2nf1vw4V+szDOXZ/3qSTvfws1MEMFRqxe1LHsnyAQjqIBDP1inLDRSpsx
+OCiZTorwKA4hBU2yG49cTduCTH/6MNPuwTasHQAbG1H7nC1oJuXcZvdYujbqdlUo
+vUMGlSQvXiZxZrGUNiwbzFF7JqscM72FUOmL4cUO1ZHHfng6q5q50z3g30/hKxm0
+zeCsMjp4rFz9E7wlvbBuiVPsN6jYXiRRBUZaoy3tC8ectM2W2ipqzbmqqlISEsDs
+15lwscyu7SpT9zfD7UCIxn86z49+aqzKs6lv9wrGuuy7trP39UL5poFPCEVfj6Nv
+2S+7DX+r
+=0H66
 -----END PGP SIGNATURE-----
