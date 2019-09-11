@@ -9,9 +9,9 @@ Provides: fibocom.com
 Priority: optional
 Section: utils
 Filename: pool/main/f/fwswitchtool/fwswitchtool_1.0.9_amd64.deb
-Size: 30320164
-SHA256: bb5dc6ed51239eb073083bcf92b6c8c14d85a6320651edc4932bfd9eaff25213
-SHA1: 28ac332cc8b20a4964d90273f0d1d6f68d1704e5
-MD5sum: b1b660c1ce3cfdaa5d34c05324765d2f
+Size: 30317208
+SHA256: 1683d3df4230802b89bd591edf777f7e01859d8088bbe48a28f1ef05dba58e46
+SHA1: 336cb12979cef209081c79ba1b57964b82ea11a8
+MD5sum: e2827018786cf1fe39022a491faed21b
 Description: FWSwitch Tool for ubuntu system
 

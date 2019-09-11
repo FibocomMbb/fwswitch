@@ -5,33 +5,33 @@ Origin: fibocom.com
 Label: fwswitchtool repository
 Suite: stable
 Codename: fwswitch
-Date: Tue, 10 Sep 2019 08:58:09 UTC
+Date: Wed, 11 Sep 2019 04:21:04 UTC
 Architectures: amd64
 Components: main
 Description: FWSwitch Tool for ubuntu system
 MD5Sum:
- 6f51b52457c370f43f7866529bb025a2 469 main/binary-amd64/Packages
- a32474468ce28b9e1e3929450cec46e1 347 main/binary-amd64/Packages.gz
+ 9016efb2cd88f12e5806fa449409c550 469 main/binary-amd64/Packages
+ e0c13f3281ba1745a5e011a14631a15c 348 main/binary-amd64/Packages.gz
  854dedc79de1daa29d32adf8b3a77899 148 main/binary-amd64/Release
 SHA1:
- 3d4a70682fae3e6b99b6a8ece42e751f4f1f80fc 469 main/binary-amd64/Packages
- d0e8a9c581b7cd1b305a71deff11f1449025c6a4 347 main/binary-amd64/Packages.gz
+ 71b39df7888911abb783367f320a114c88a5e103 469 main/binary-amd64/Packages
+ d362e4cde9f60b0c4fcc9027dc407a3939d4969b 348 main/binary-amd64/Packages.gz
  bb6ff543be39bf0cb79c256549e5cb9543d4650d 148 main/binary-amd64/Release
 SHA256:
- 456d551d0dbe911d04fb9b50ff5793abae34291177cd489302103381396193ce 469 main/binary-amd64/Packages
- b107969f52b1d5a509767393a0a6ebc613ee208deaed5c27363d330ba6b1e709 347 main/binary-amd64/Packages.gz
+ 382f6d81654a3f131e60c36d11140ad814cf346a838691a11a26996e05010003 469 main/binary-amd64/Packages
+ 055f04fb28fa2e46525324f2395d9931f3e631e9ec6d19d06ea8dcd700e33f3c 348 main/binary-amd64/Packages.gz
  3072e06c8854e65b0e753f05680c08b2b2a9a44fdeeb93346f79f2438b51d072 148 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEhhHzKrPoKEaMihWwnlbC43rI7o0FAl13ZaEACgkQnlbC43rI
-7o2tVAv+IokvnKaJiqqAerpjAPtv0h2ypbtgcCHFdINovG0QwFj6SLjAuB5qIe4n
-jY93QHGu6DBY+xPcm2FbDFev9IBWXFjM4ExWl3WSujlZ4xD/nbYoOGNN16zFJUTs
-u5IqXDSuY6eI9goXqrVFC09piQbBxkys3PbplVedwon+zO4wfVde53HbOHORHNzi
-OzseZ+h2nf1vw4V+szDOXZ/3qSTvfws1MEMFRqxe1LHsnyAQjqIBDP1inLDRSpsx
-OCiZTorwKA4hBU2yG49cTduCTH/6MNPuwTasHQAbG1H7nC1oJuXcZvdYujbqdlUo
-vUMGlSQvXiZxZrGUNiwbzFF7JqscM72FUOmL4cUO1ZHHfng6q5q50z3g30/hKxm0
-zeCsMjp4rFz9E7wlvbBuiVPsN6jYXiRRBUZaoy3tC8ectM2W2ipqzbmqqlISEsDs
-15lwscyu7SpT9zfD7UCIxn86z49+aqzKs6lv9wrGuuy7trP39UL5poFPCEVfj6Nv
-2S+7DX+r
-=0H66
+iQGzBAEBCgAdFiEEhhHzKrPoKEaMihWwnlbC43rI7o0FAl14djAACgkQnlbC43rI
+7o3togv/T50aOR+brej0tz0KuID0WHVpxycpr3zKBYDciZCiiI+FzupCPuoPDNQQ
+IrCfsNzoiRxJtvwbzwWZOzy+EJLWUSjRE63oE+mM63QSoUoWBjqe6jEtR6PHecWl
+alxnA1NYRSdB0J2DYNli6CzdqfbusHuDGoz7Kk97UC0CrPaj3dP3ek1oiZpjXPa9
+7BjMWxiw6CoIj5uCOpPheP0Ru4KJ3sRpOt3M96sS9IRJcJVCW8W+AJ2bUmkxDzX1
+AZawqt2mqzpc5UUgBaG458J1/RYQe5sEnshD23efCRPT1DVkPmDzK36my1vO8kyP
+DJv/K9M/jtXHgFOCi6xpVQ3UlrxR20DdP4UuUSU6lkHfRuOKkTIFo2vtnQ4WCrVl
+c47Eo/wuDeubni/cBugcGtSAMMG5u27r/6mfkpgF6QkpQxTWcIsVLpRkztqxRc46
+CKesHtLcyydkxt5FBojSp9x9CX+6j1NqNYdsO3Cf137QYJRn1H6UNMZVLkiNDA/s
+2Eb4epoW
+=6sZx
 -----END PGP SIGNATURE-----
